@@ -1,4 +1,4 @@
-#Non Negative Tensor/Matrix Factorization - SETI
+# Non Negative Tensor/Matrix Factorization - SETI
 ## Try It Out
 You can try out the example note book that gives a good walkthrough on the implementation! [link](https://github.com/PetchMa/NTF_SETI_RFI/blob/master/Example_Non_Negative_Matrix_Factor.ipynb "link")
 
@@ -15,3 +15,7 @@ The results are quite interesting. Here I took a snippet of 2 cadences of these 
 However be aware that this does distort the original signal quite a bit and isn't super reliable at the moment. 
 
 ![](https://github.com/PetchMa/NTF_SETI_RFI/blob/master/assets/results_3.png?raw=true)
+
+Here's an even better example with a simulated example with noise and without noise. It preformed very well! 
+
+![](https://github.com/PetchMa/NTF_SETI_RFI/blob/master/assets/results_1.png?raw=true)
